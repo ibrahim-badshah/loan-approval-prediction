@@ -42,7 +42,7 @@ loan-approval-prediction/
 ├── loan_approval_system.ipynb       # Main notebook with EDA and models
 ├── requirements.txt                 # Python dependencies
 ├── README.md                        # Project documentation
-└── .gitignore                       # Git ignore file(Dataset)
+└── loan_approval_data               # Dataset
 ```
 
 ## 📥 Installation & Setup
